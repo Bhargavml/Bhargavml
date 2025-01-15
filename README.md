@@ -50,11 +50,6 @@
 
 ---
 
-## 📊 **GitHub Contributions**
-![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhargavml&show_icons=true&theme=react)
-
----
-
 ## 🎯 **2025 Goals**
 - Contribute to impactful **AI/ML** open-source projects.  
 - Master **Generative AI** and **Deep Learning** techniques.  
