@@ -50,14 +50,24 @@
 ---
 
 ## 📊 **GitHub Contributions**
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhargavml&theme=react-dark)
+![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhargavml&show_icons=true&theme=react)
 
 ### 📈 **Personal Data Science Achievements**
-#### Contributions by Project Type
-![Projects Breakdown](https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'Machine%20Learning'%2C'Deep%20Learning'%2C'NLP'%2C'Web%20Apps'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B40%2C30%2C20%2C10%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A'bottom'%7D%7D%7D%7D)
 
-#### Skill Proficiency Chart
-![Skill Radar](https://quickchart.io/chart?c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'Python'%2C'SQL'%2C'NLP'%2C'Expert%20Deep%20Learning'%2C'Visualization'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Level'%2Cdata%3A%5B90%2C80%2C85%2C75%2C70%5D%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A'%23ccc'%7D%2Cgrid%3A%7Bcolor%3A'%23eee'%7D%7D%7D%7D%7D)
+#### Contributions by Project Type and Skill Proficiency Chart
+<div style="display: flex; justify-content: space-between; gap: 2%;">
+  <div style="flex: 1; text-align: center;">
+    <img src="https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'Machine%20Learning'%2C'Deep%20Learning'%2C'NLP'%2C'Web%20Apps'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B40%2C30%2C20%2C10%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A'bottom'%7D%7D%7D%7D" width="100%" />
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://quickchart.io/chart?c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'Python'%2C'SQL'%2C'NLP'%2C'Expert%20Deep%20Learning'%2C'Visualization'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Level'%2Cdata%3A%5B90%2C80%2C85%2C75%2C70%5D%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A'%23ccc'%7D%2Cgrid%3A%7Bcolor%3A'%23eee'%7D%7D%7D%7D%7D" width="100%" />
+  </div>
+</div>
+
+
+
+
+
 
 ---
 
