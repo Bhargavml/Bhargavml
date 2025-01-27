@@ -15,7 +15,7 @@
 - **From**: A passionate Data Scientist based in India 🇮🇳  
 - **Core Skills**: Python, Mysql, AI/ML, Tableau, Flask, Streamlit  
 - **Mission**: To redefine possibilities with Data Science & AI  
-- **Status**: Actively looking for Data Scientist opportunities  
+
 
 > _“Not all who wander are lost; some are just mining datasets.”_
 
