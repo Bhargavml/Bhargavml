@@ -46,7 +46,11 @@
 
 ### [Next Word Prediction Using LSTM](https://github.com/Bhargavml/next-word-prediction)
 - **Objective**: Real-time text predictions using LSTM neural networks.  
-- **Impact**: Showcased deep learning for language modeling with an interactive app.  
+- **Impact**: Showcased deep learning for language modeling with an interactive app.
+
+### [End-to-End Generative AI Chatbot](https://github.com/Bhargavml/e2e-genai-chatbot)  
+- **Objective**: Develop a fully functional chatbot powered by Ollama open-source LLMs.  
+- **Impact**: Enabled real-time AI conversations with a customizable, locally hosted chatbot.
 
 ---
 
